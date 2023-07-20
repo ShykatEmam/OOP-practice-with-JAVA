@@ -3,7 +3,6 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package level1ProgrammingExercises;
-
 /**
  *
  * @author Overlord
@@ -26,9 +25,5 @@ public class lv1ex17 {
         
         myWindow.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     
-    
-    
     }
-    
-    
 }
